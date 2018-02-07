@@ -17,3 +17,5 @@ NeoDash uses a hash algorithm know as NeoScrypt, which was developed and adapted
 The indisputable advantage of NeoDash is a more cogent accrual of reward distribution when a block is found. 50% goes to the miner, 
 and 50% goes to the operator of the Masternode which processes the found block's transaction(s).
 
+For more information please visit: https://neodash.net
+
